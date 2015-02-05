@@ -32,7 +32,7 @@ Vous entrez alors les informations suivantes dans la fenètre qui apparaît.
 * Branch : **master**
 * File path : _posts/2015-03-25-mon-article-de-blog.md
 
-pour le File path le nom du fichier doit être du type *_posts/date-titredublogavecdestirets.md*
+pour le File path le nom du fichier doit être du type *_posts/date-titredelarticleavecdestirets.md*
 
 <figure>
   <a href="{{ site.url }}/images/Etape1.png"><img src="{{ site.url }}/images/Etape1.png"></a>
