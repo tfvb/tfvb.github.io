@@ -26,3 +26,38 @@ Pour le publier, il vous reste à cliquer en haut à gauche sur le #.
 Vous cliquez sur Publish (export to the Web).
 
 Vous entrez alors les informations suivantes dans la fenètre qui apparaît.
+
+* Repository : **/tfvb/tfvb.github.io**
+* Branch : **master**
+* File path : _posts/2015-03-25-mon-article-de-blog.md
+
+pour le File path le nom du fichier doit être du type _posts/date-titredublogavecdestirets.md
+
+<figure>
+  <a href="{{ site.url }}/images/Etape1.png"><img src="{{ site.url }}/images/Etape1.png"></a>
+  <figcaption>Etape 1</figcaption>
+</figure>
+
+
+A l'étape 2, il ne fait que vous donnez de l'info, vous pouvez cliquer sur ok.
+
+<figure>
+  <a href="{{ site.url }}/images/Etape2.png"><img src="{{ site.url }}/images/Etape2.png"></a>
+  <figcaption>Etape 2</figcaption>
+</figure>
+
+A l'étape 3, il vous demande le login et le mot de passe que je fournirai à la demande.
+
+<figure>
+  <a href="{{ site.url }}/images/Etape1.png"><img src="{{ site.url }}/images/Etape1.png"></a>
+  <figcaption>Etape 3</figcaption>
+</figure>
+
+<figure>
+  <a href="{{ site.url }}/images/Etape4.png"><img src="{{ site.url }}/images/Etape4.png"></a>
+  <figcaption>Etape 4 (parfois optionnelle)</figcaption>
+</figure>
+
+Et voilà, c'est en ligne, pas de panique vous ne pouvez pas faire de bétises tout est historisé.
+
+Si cela ne vous plait pas, vous modifiez dans stackedit et vous demandez à republier.
