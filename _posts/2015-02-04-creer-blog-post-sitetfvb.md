@@ -10,7 +10,6 @@ share: true
 
 **Pour créer son propre blog de post c'est facile**
 
-<!--more -->
 
 Ouvrez [stackedit](https://stackedit.io/editor) dans votre navigateur.
 Quand vous arrivez sur l'éditeur cliquez en haut à gauche et sélectionnez **Import from URL** et mettez l'URL suivante [https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md](https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md).
