@@ -8,18 +8,19 @@ comments: true
 share: true
 ---
 
+**Pour créer son propre blog de post c'est facile**
 
+<!--more -->
 
-Pour créer son propre blog de post c'est facile
 Ouvrez [stackedit](https://stackedit.io/editor) dans votre navigateur.
-Quand vous arrivez sur l'éditeur cliquez en haut à gauche et sélectionnez **Import from URL** et mettez l'urrl suivante [https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md](https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md).
+Quand vous arrivez sur l'éditeur cliquez en haut à gauche et sélectionnez **Import from URL** et mettez l'URL suivante [https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md](https://raw.githubusercontent.com/tfvb/tfvb.github.io/master/docs/2015-02-01-template-blog.md).
 
 A partir de là, vous pouvez éditez votre post de blog à l'aide de la syntaxe markdown. L'éditeur vous fournit une aide. Le début du fichier contient les méta-données de votre site à savoir:
 
 * le titre
 * la description
-* la catégorie (pour les recherches)
-* les tags (pour les recherches)
+* la catégorie (pour les recherches, mais vous pouvez mettre ce que vous voulez mais il ne faut qu'un mot)
+* les tags (pour les recherches, mais vous pouvez mettre ce que vous voulez en les séparant avec une virgule)
 
 Pour le publier, il vous reste à cliquer en haut à gauche sur le #.
 
@@ -31,7 +32,7 @@ Vous entrez alors les informations suivantes dans la fenètre qui apparaît.
 * Branch : **master**
 * File path : _posts/2015-03-25-mon-article-de-blog.md
 
-pour le File path le nom du fichier doit être du type _posts/date-titredublogavecdestirets.md
+pour le File path le nom du fichier doit être du type *_posts/date-titredublogavecdestirets.md*
 
 <figure>
   <a href="{{ site.url }}/images/Etape1.png"><img src="{{ site.url }}/images/Etape1.png"></a>
