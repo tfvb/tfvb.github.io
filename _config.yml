@@ -54,6 +54,8 @@ links:
     icon: home
   - title: Le bureau
     url: /bureau
+  - title: La salle
+    url: /salle
   - title: Liens utiles
     url: /liens
   - title: Documents utiles
