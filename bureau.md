@@ -7,4 +7,8 @@ image:
   feature: Hossain-Mohd-Faysal.jpg
 ---
 
-Description du bureau à venir
+#Comité directeur et rôle
+* Description à venir
+
+#Membre d'honneur de l'association
+* à venir
