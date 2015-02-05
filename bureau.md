@@ -32,7 +32,7 @@ image:
 * VALEAU Eric
 * VOLAY Stéphane (Trésorier)
 
-##Membre d'honneur de l'association
+##Membres d'honneur de l'association
 
 <figure>
   <a href="{{ site.url }}/images/Jean-Marc.png"><img src="{{ site.url }}/images/Jean-Marc.png"></a>
