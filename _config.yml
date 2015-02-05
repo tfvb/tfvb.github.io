@@ -48,7 +48,7 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Accueil
     url: /
     external: false
     icon: home
@@ -65,7 +65,7 @@ links:
   - title: Blog
     url: /blog
     external: false
-  - title: Categories
+  - title: Catégories
     url: /categories
   - title: Tags
     url: /tags
