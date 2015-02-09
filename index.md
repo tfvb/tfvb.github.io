@@ -12,8 +12,8 @@ Il n'a pas pour but de servir de blog ([facebook](https://www.facebook.com/group
 
 Vous trouverez principalement cinq informations:
 
-* Le [bureau](/bureau) et les compte rendus des réunions du bureau
+* Le [bureau](/bureau) et les comptes-rendus des réunions du bureau.
 * Quelques [documents](/documents) à télécharger (Formilaire d'isncription, ...)
-* Quelques [liens](/liens) pour les résultats des championnats et uploader les résultats des matches
+* Quelques [liens](/liens) pour les résultats des championnats et uploader les résultats des matches.
 * Le plan pour trouver la [salle](/salle) pour favoriser l'accueil de nos adversaires.  
-* Un [blog](/blog) pour partager quelques photos
+* Un [blog](/blog) pour partager quelques photos.
